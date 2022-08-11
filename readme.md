@@ -1,3 +1,6 @@
+save_as: ../index.html     
+
+
 ### Capivara's website
 
 ![The mighty capivara \(or is it a tiger? \)](capivara.jpg)
