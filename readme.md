@@ -1,9 +1,4 @@
-title: 
-slug: Home
-category: Home
-date: 2022-08-08
-modified: 2022-08-08
-save_as: ../index.html     
+
 
 ### Capivara's website
 
