@@ -1,6 +1,6 @@
 ### Capivara's website
 
-![The mighty capivara \(or is it a tiger? \)](https://octodex.github.com/images/bannekat.png)
+![The mighty capivara \(or is it a tiger? \)](capivara.jpg)
 
 
 A description of the capivara. Here is my [CV](insert link here)
