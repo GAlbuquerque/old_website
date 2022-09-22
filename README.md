@@ -1,1 +1,0 @@
-# GAlbuquerque.github.io
