@@ -16,7 +16,18 @@ research employ historic and administrative data to understand causes and conseq
 
 #### Research
 
-* [Paper 1](Violence_to_Violence.pdf) 
+* [From Violence to Violence? The Long Term
+Effects of Conflict on Homicide Rates](Violence_to_Violence.pdf) 
+
+This paper studies the long term impact of large scale temporary violence
+in long term homicide rates. I analyze the case of Guatemala’s
+civil war massacres and assemble data on their locations and homicides
+between 2016-2019, to test whether there is association between the two.
+I find that highly victimized municipalities have fewer homicides today.
+Exploring precipitation variation as an instrument for massacres, I provide
+evidence that such relation is causal. Generalized trust is also higher in
+municipalities with more massacres, suggesting a mechanism connecting
+past violence and present peace through increased local cohesion.
 
 * [Paper 2]
 
@@ -39,4 +50,4 @@ Nunc vitae tortor.
 
 #### Contact
 
-capivara@gmail.com
+gtovaralbuquerque@gmail.com
