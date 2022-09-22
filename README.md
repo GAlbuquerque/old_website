@@ -21,9 +21,9 @@ Nulla ullamcorper vestibulum turpis. Pellentesque cursus luctus mauris. Here is 
 
 #### Research
 
-* [Paper 1](capivara.jpg) 
+* [Paper 1](Violence_to_Violence.pdf) 
 
-* [Paper 2](empty_pdf.pdf)
+* [Paper 2]
 
 #### Teaching
 
