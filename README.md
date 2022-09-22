@@ -11,9 +11,7 @@
 
 
 I am an Applied Microeconomist with an interest in understanding the causes and consequences of violence. My
-work employ historic and administrative data to understand causes and consequences of violent behavior. More
-specifically, how it was affected by economic incentives, institutional settings, political institutions, and past even
-episodes of violence. Here is my [CV](Gustavo.pdf)
+research employ historic and administrative data to understand causes and consequences of violent behavior. I am on the 2022-2023 Job Market for Economics and Political Science. Here is my [CV.](Gustavo.pdf)
 
 
 #### Research
