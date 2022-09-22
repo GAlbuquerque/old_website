@@ -4,7 +4,7 @@
 
 <!--![The mighty capivara \(or is it a tiger? \)]-->
 
-(temp_picture.png)
+![](temp_picture.png)
 
 
 Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor
