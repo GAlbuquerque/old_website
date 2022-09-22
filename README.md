@@ -10,13 +10,10 @@
 ![](temp_picture.png)
 
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor
-lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
-Donec aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae
-ornare odio metus a mi. Morbi ac orci et nisl hendrerit mollis. Suspendisse ut
-massa. Cras nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Aliquam tincidunt urna.
-Nulla ullamcorper vestibulum turpis. Pellentesque cursus luctus mauris. Here is my [CV](empty_pdf.pdf)
+I am an Applied Microeconomist with an interest in understanding the causes and consequences of violence. My
+work employ historic and administrative data to understand causes and consequences of violent behavior. More
+specifically, how it was affected by economic incentives, institutional settings, political institutions, and past even
+episodes of violence. Here is my [CV](Gustavo.pdf)
 
 
 #### Research
