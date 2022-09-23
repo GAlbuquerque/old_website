@@ -13,7 +13,7 @@ I am an Applied Microeconomist with an interest in understanding the causes and 
 research employs historic and administrative data to understand causes and consequences of violent behavior. I am on the 2022-2023 Job Market for Economics and Political Science. Here is my [CV.](Gustavo.pdf)
 
 
-#### Research
+### Research
 
 * [From Violence to Violence? The Long Term
 Effects of Conflict on Homicide Rates](Violence_to_Violence.pdf) 
@@ -45,7 +45,7 @@ National Historic Police Archive
 
 This project explore police archives produced at a time when Guatemala had an authoritarian government fighting a leftist insurrection. I am leveraging recent machine learning developments (eg. OCR, Topic Modelling) to transcribe the whole police archive, organize it and quantify its contents in an automated and easily replicable way. In the next months, I will investigate how much police effort was directed to different goals, like combating robbery or repressing political dissent. Additionally, I will research how this effort varied with time and space, and whether this variation was correlated with the political changes Guatemala went through the studied period (1980-1990). 
 
-#### Teaching
+### Teaching
 
 I am currently working as instructor of Principles of Microeconomics at the [Corpus Christi College](https://corpuschristi.ca/) and teaching assitant of Intermediate Microeconomics at the [University of British Columbia](https://economics.ubc.ca/). In the past I have also taught Econometrics, Environmental Economics, and MA level Microeconomics.
 
