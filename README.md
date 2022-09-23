@@ -7,8 +7,8 @@
 
 <!--![The mighty capivara \(or is it a tiger? \)]-->
 
-![](temp_picture.png | width=100)
-
+![](temp_picture.png)
+<img src="temp_picture.png" width=50% height=50%>
 
 I am an Applied Microeconomist with an interest in understanding the causes and consequences of violence. My
 research employ historic and administrative data to understand causes and consequences of violent behavior. I am on the 2022-2023 Job Market for Economics and Political Science. Here is my [CV.](Gustavo.pdf)
