@@ -16,6 +16,7 @@ research employs historic and administrative data to understand causes and conse
 
 ### Research
 <br/>
+
 * [From Violence to Violence? The Long Term
 Effects of Conflict on Homicide Rates](Violence_to_Violence.pdf) 
 
