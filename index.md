@@ -53,7 +53,7 @@ This project explore police archives produced at a time when Guatemala had an au
 
 I am currently working as instructor of Principles of Microeconomics at the [Corpus Christi College](https://corpuschristi.ca/) and teaching assitant of Intermediate Microeconomics at the [University of British Columbia](https://economics.ubc.ca/). In the past I have also taught Econometrics, Environmental Economics, and MA level Microeconomics.
 
-My [teaching philosophy](teaching_statement2) emphasizes critical thinking and authonomy. I also strive to create an inviting and fun environment in my classes. Here is a [sample syllabus](syllabus.pdf).
+My [teaching philosophy](teaching_statement2.pdf) emphasizes critical thinking and authonomy. I also strive to create an inviting and fun environment in my classes. Here is a [sample syllabus](syllabus.pdf).
 
 <!--![The mighty capivara \(or is it a tiger? \)]
 #### Others
