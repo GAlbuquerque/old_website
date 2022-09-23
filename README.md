@@ -7,7 +7,7 @@
 
 <!--![The mighty capivara \(or is it a tiger? \)]-->
 
-![](temp_picture.png)
+![](temp_picture.png){ width=50% }
 
 
 I am an Applied Microeconomist with an interest in understanding the causes and consequences of violence. My
