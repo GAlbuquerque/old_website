@@ -46,6 +46,7 @@ National Historic Police Archive
 This project explore police archives produced at a time when Guatemala had an authoritarian government fighting a leftist insurrection. I am leveraging recent machine learning developments (eg. OCR, Topic Modelling) to transcribe the whole police archive, organize it and quantify its contents in an automated and easily replicable way. In the next months, I will investigate how much police effort was directed to different goals, like combating robbery or repressing political dissent. Additionally, I will research how this effort varied with time and space, and whether this variation was correlated with the political changes Guatemala went through the studied period (1980-1990). 
 
 <br/>
+
 ### Teaching
 
 I am currently working as instructor of Principles of Microeconomics at the [Corpus Christi College](https://corpuschristi.ca/) and teaching assitant of Intermediate Microeconomics at the [University of British Columbia](https://economics.ubc.ca/). In the past I have also taught Econometrics, Environmental Economics, and MA level Microeconomics.
