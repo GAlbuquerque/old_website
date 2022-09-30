@@ -8,8 +8,7 @@
 
 <img src="temp_picture.png" width=30% height=30%>
 
-I am an Applied Microeconomist with an interest in understanding the causes and consequences of violence. My
-research employ historic and administrative data to understand causes and consequences of violent behavior. I am on the 2022-2023 Job Market for Economics and Political Science. Here is my [CV.](Gustavo.pdf)
+I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. I am on the 2022-2023 Job Market for Economics. Here is my [CV.](Gustavo.pdf)
 
 
 #### Research
