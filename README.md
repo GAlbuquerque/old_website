@@ -8,7 +8,7 @@
 
 <!--![The mighty capivara \(or is it a tiger? \)]-->
 <br/><br/>
-<img src="temp_picture.png" width=20% height=20%>
+<img src="Gustavo Albuquerque-3.jpg" width=20% height=20%>
 <br/><br/>
 I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. I am on the 2022-2023 Job Market for Economics. Here is my [CV.](Gustavo.pdf)
 
