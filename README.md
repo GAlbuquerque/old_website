@@ -1,17 +1,21 @@
 
+# Gustavo Albuquerque (Temporary Website)
 
 
 
-### Temporary Website
+
+<!--### Temporary Website-->
 
 <!--![The mighty capivara \(or is it a tiger? \)]-->
-
-<img src="temp_picture.png" width=30% height=30%>
-
+<br/><br/>
+<img src="temp_picture.png" width=20% height=20%>
+<br/><br/>
 I am an Applied Microeconomist with an interest in understanding violence. My research employs historic and administrative data to understand causes and consequences of crime and political repression, with a focus in Guatemala and Mexico. I am on the 2022-2023 Job Market for Economics. Here is my [CV.](Gustavo.pdf)
 
+<br/>
 
-#### Research
+### Research
+<br/>
 
 * [From Violence to Violence? The Long Term
 Effects of Conflict on Homicide Rates](Violence_to_Violence.pdf) 
@@ -43,11 +47,13 @@ National Historic Police Archive
 
 This project explore police archives produced at a time when Guatemala had an authoritarian government fighting a leftist insurrection. I am leveraging recent machine learning developments (eg. OCR, Topic Modelling) to transcribe the whole police archive, organize it and quantify its contents in an automated and easily replicable way. In the next months, I will investigate how much police effort was directed to different goals, like combating robbery or repressing political dissent. Additionally, I will research how this effort varied with time and space, and whether this variation was correlated with the political changes Guatemala went through the studied period (1980-1990). 
 
-#### Teaching
+<br/>
+
+### Teaching
 
 I am currently working as instructor of Principles of Microeconomics at the [Corpus Christi College](https://corpuschristi.ca/) and teaching assitant of Intermediate Microeconomics at the [University of British Columbia](https://economics.ubc.ca/). In the past I have also taught Econometrics, Environmental Economics, and MA level Microeconomics.
 
-My [teaching philosophy](teaching_statement2) emphasizes critical thinking and authonomy. I also strive to create an inviting and fun environment in my classes. Here is a [sample syllabus](syllabus.pdf).
+My [teaching philosophy](teaching_statement2.pdf) emphasizes critical thinking and authonomy. I also strive to create an inviting and fun environment in my classes. Here is a [sample syllabus](syllabus.pdf).
 
 <!--![The mighty capivara \(or is it a tiger? \)]
 #### Others
@@ -60,6 +66,8 @@ gravida sollicitudin, felis odio placerat quam, ac pulvinar elit purus eget enim
 Nunc vitae tortor.
 -->
 
-#### Contact
+<br/>
+
+### Contact
 
 gtovaralbuquerque@gmail.com
